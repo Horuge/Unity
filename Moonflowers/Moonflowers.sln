@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moonflowers", "Assembly-CSharp-firstpass.csproj", "{BDF6057F-2776-181A-F070-5966170F4B08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moonflowers", "Assembly-CSharp.csproj", "{B5D4CD46-CFB4-05FE-6FEF-227A4D3BC234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moonflowers", "Assembly-CSharp-Editor-firstpass.csproj", "{B31FD168-0036-A3A2-C86D-3BFFACC73651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF6057F-2776-181A-F070-5966170F4B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF6057F-2776-181A-F070-5966170F4B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF6057F-2776-181A-F070-5966170F4B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF6057F-2776-181A-F070-5966170F4B08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D4CD46-CFB4-05FE-6FEF-227A4D3BC234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D4CD46-CFB4-05FE-6FEF-227A4D3BC234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D4CD46-CFB4-05FE-6FEF-227A4D3BC234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D4CD46-CFB4-05FE-6FEF-227A4D3BC234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31FD168-0036-A3A2-C86D-3BFFACC73651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31FD168-0036-A3A2-C86D-3BFFACC73651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31FD168-0036-A3A2-C86D-3BFFACC73651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31FD168-0036-A3A2-C86D-3BFFACC73651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
